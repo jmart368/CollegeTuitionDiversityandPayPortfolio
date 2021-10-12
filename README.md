@@ -1,2 +1,1 @@
-# CollegeTuitionDiversityandPayPortfolio
-College, Tuition, Diversity, and Pay Project
+# College, Tuition, Diversity, and Pay Project
