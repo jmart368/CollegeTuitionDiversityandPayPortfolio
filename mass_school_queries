@@ -1,0 +1,150 @@
+--Clean and organize the data
+--Search for NA’s in state and filter by state_code
+SELECT state, state_code FROM tuition_cost
+WHERE state ILIKE 'NA';
+
+--Update the state’s full name
+UPDATE tuition_cost
+SET state = 'Puerto Rico'
+WHERE state_code = 'PR';
+
+UPDATE tuition_cost
+SET state = 'American Samoa'
+WHERE state_code = 'AS';
+
+UPDATE tuition_cost
+SET state = 'Guam'
+WHERE state_code = 'GU';
+
+UPDATE tuition_cost
+SET state = 'District of Columbia' 
+WHERE state_code = 'DC';
+
+UPDATE tuition_cost
+SET state = 'Virgin Islands'
+WHERE state_code = 'VI';
+
+--Search for NA’s in the room_and_board column 
+SELECT room_and_board FROM tuition_cost
+WHERE room_and_board ILIKE 'NA';
+
+--Update the NA”s to numeric a value of zero
+UPDATE tuition_cost
+SET room_and_board = '0'
+WHERE room_and_board = 'NA';
+
+--Confirm that no NA’s exist
+SELECT room_and_board FROM tuition_cost 
+WHERE room_and_board = '0';
+
+--Alter the data type on the room_and_board Column from text to numeric
+ALTER TABLE tuition_cost
+ALTER COLUMN room_and_board TYPE numeric
+USING room_and_board::numeric;
+
+--Confirm that changes were made
+SELECT * FROM tuition_cost LIMIT 5;
+
+--Looking at the salary_potential table, we can note that only 1 column contains NA’s
+SELECT * FROM salary_potential 
+WHERE make_world_better_percent = 'NA';
+
+UPDATE salary_potential
+SET make_world_better_percent = '0'
+WHERE make_world_better_percent = 'NA';
+
+SELECT * FROM salary_potential 
+WHERE make_world_better_percent = '0';
+
+ALTER TABLE salary_potential
+ALTER COLUMN make_world_better_percent TYPE numeric
+USING make_world_better_percent::numeric;
+
+SELECT * FROM salary_potential 
+WHERE make_world_better_percent = '0';
+
+--Filter out schools based in MA only
+SELECT * FROM diversity_school 
+WHERE state = 'Massachusetts' 
+ORDER BY name;
+
+SELECT * FROM tuition_cost
+WHERE state = 'Massachusetts'
+ORDER BY name;
+
+SELECT * FROM salary_potential
+WHERE state_name = 'Massachusetts'
+ORDER BY rank;
+
+SELECT * FROM tuition_income
+WHERE state = 'MA'
+ORDER BY name;
+
+SELECT * FROM historical_tuition;
+
+--Show the average room and board/tuition cost for public schools in MA
+SELECT 
+ROUND(AVG(room_and_board),2) AS avg_room_and_board,
+ROUND(AVG(in_state_tuition),2) AS avg_in_state_tuition,
+ROUND(AVG(out_of_state_tuition),2) AS avg_out_of_state_tuition
+FROM tuition_cost
+WHERE state = 'Massachusetts' and TYPE ='Public';
+
+--Show the national average room and board/tuition cost for all public schools exlcuding MA
+SELECT 
+ROUND(AVG(room_and_board),2) AS avg_room_and_board,
+ROUND(AVG(in_state_tuition),2) AS avg_in_state_tuition,
+ROUND(AVG(out_of_state_tuition),2) AS avg_out_of_state_tuition
+FROM tuition_cost
+WHERE state NOT LIKE 'Massachusetts' and TYPE ='Public';
+
+--Show the average room and board/tuition cost for private schools in MA
+SELECT 
+ROUND(AVG(room_and_board),2) AS avg_room_and_board,
+ROUND(AVG(in_state_tuition),2) AS avg_in_state_tuition,
+ROUND(AVG(out_of_state_tuition),2) AS avg_out_of_state_tuition
+FROM tuition_cost
+WHERE state = 'Massachusetts' and TYPE ='Private';
+
+--Show the national average room and board/tuition cost for private schools excluding MA
+SELECT 
+ROUND(AVG(room_and_board),2) AS avg_room_and_board,
+ROUND(AVG(in_state_tuition),2) AS avg_in_state_tuition,
+ROUND(AVG(out_of_state_tuition),2) AS avg_out_of_state_tuition
+FROM tuition_cost
+WHERE state NOT LIKE 'Massachusetts' and TYPE ='Private';
+
+--Show schools in MA that have most minorities
+SELECT DISTINCT(diversity_school.name),
+tuition_cost.type,
+tuition_cost.degree_length,
+tuition_cost.room_and_board,
+tuition_cost.in_state_tuition,
+tuition_cost.out_of_state_tuition,
+ROUND((diversity_school.enrollment/diversity_school.total_enrollment)*100, 2) AS Total_Minority_Percentage
+FROM diversity_school
+INNER JOIN tuition_cost
+ON diversity_school.name = tuition_cost.name
+WHERE diversity_school.state = 'Massachusetts' 
+AND diversity_school.category = 'Total Minority'
+ORDER BY Total_Minority_Percentage DESC;
+
+--show higher rank schools for minorties
+SELECT DISTINCT(diversity_school.name),
+tuition_cost.type,
+tuition_cost.degree_length,
+tuition_cost.room_and_board,
+tuition_cost.in_state_tuition,
+tuition_cost.out_of_state_tuition,
+salary_potential.early_career_pay,
+salary_potential.mid_career_pay,
+salary_potential.stem_percent,
+ROUND((diversity_school.enrollment/diversity_school.total_enrollment)*100, 2) AS Total_Minority_Percentage
+FROM diversity_school
+INNER JOIN tuition_cost
+ON diversity_school.name = tuition_cost.name
+INNER JOIN salary_potential
+ON tuition_cost.name = salary_potential.name
+WHERE diversity_school.state = 'Massachusetts' 
+AND diversity_school.category = 'Total Minority'
+ORDER BY Total_Minority_Percentage DESC;
