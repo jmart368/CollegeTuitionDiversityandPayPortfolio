@@ -1,0 +1,642 @@
+"name","type","degree_length","room_and_board","in_state_tuition","out_of_state_tuition","early_career_pay","mid_career_pay","stem_percent","total_minority_percentage"
+"Benedict College","Private","4 Year",6200,16600,16600,38100,67500,19,99.51
+"Tougaloo College","Private","4 Year",6643,10790,10790,36900,66400,18,99.11
+"Miles College","Private","4 Year",7042,11604,11604,34800,65100,19,98.09
+"Rust College","Private","4 Year",4300,9900,9900,34800,62400,32,96.16
+"Alcorn State University","Public","4 Year",9608,7144,7144,40900,69500,19,95.60
+"South Carolina State University","Public","4 Year",9890,11060,21750,44500,80800,16,95.29
+"Morehouse College","Private","4 Year",13438,27574,27574,55700,98700,26,95.16
+"University of Arkansas at Pine Bluff","Public","4 Year",7881,7842,14094,40500,70500,22,93.71
+"Dillard University","Private","4 Year",10100,18099,18099,44700,79800,20,93.58
+"Grambling State University","Public","4 Year",7192,7435,16458,43100,73100,10,93.47
+"Philander Smith College","Private","4 Year",8250,12414,12414,34600,61200,26,93.47
+"Mississippi Valley State University","Public","4 Year",8043,6570,6570,32500,61900,11,93.25
+"Alabama State University","Public","4 Year",5422,11068,19396,39800,71500,16,92.50
+"Hampton University","Private","4 Year",11778,26702,26702,52700,92600,12,92.17
+"Jackson State University","Public","4 Year",9552,8226,19454,41700,74600,16,91.59
+"Prairie View A&M University","Public","4 Year",8925,10533,24843,57800,99400,22,90.76
+"Bowie State University","Public","4 Year",10904,8233,18873,50300,89900,11,90.64
+"Spelman College","Private","4 Year",13865,29314,29314,50200,85400,24,90.16
+"Fisk University","Private","4 Year",10790,21480,21480,45300,83600,39,89.38
+"Xavier University of Louisiana","Private","4 Year",9047,24488,24488,46700,88200,35,88.41
+"Virginia State University","Public","4 Year",11208,9056,19576,44900,81800,14,87.98
+"Oakwood University","Private","4 Year",9312,16720,16720,43500,78800,16,87.47
+"Southern University at New Orleans","Public","4 Year",9040,9371,11160,40100,71000,13,85.45
+"Clark Atlanta University","Private","4 Year",9524,23436,23436,46300,81100,15,85.28
+"Langston University","Public","4 Year",9476,5950,13300,46500,81500,8,82.07
+"Bloomfield College","Private","4 Year",11950,29550,29550,48400,89100,17,80.59
+"Florida International University","Public","4 Year",10882,6558,18956,49600,90100,16,80.15
+"Tuskegee University","Private","4 Year",9650,22170,22170,54500,93500,30,77.51
+"Delaware State University","Public","4 Year",12190,7868,16904,46300,81900,10,76.55
+"University of Hawaii at Hilo","Public","4 Year",11406,7720,20680,44000,77200,14,72.60
+"Tennessee State University","Public","4 Year",7806,8008,21364,47200,78400,14,69.16
+"New Mexico Highlands University","Public","4 Year",7872,6150,10302,40400,73800,4,67.03
+"Chaminade University of Honolulu","Private","4 Year",13630,25374,25374,45400,84000,3,63.79
+"Saint Peter's University","Private","4 Year",15414,37486,37486,52900,95900,14,63.57
+"San Jose State University","Public","4 Year",16442,7796,17300,63000,114700,28,63.16
+"St. Mary's University","Private","4 Year",10270,30650,30650,52900,95300,17,62.98
+"New Jersey City University","Public","4 Year",12738,12051,21573,48700,87600,9,61.75
+"Belhaven University","Private","4 Year",8500,25300,25300,41200,74300,2,60.96
+"University of Houston","Public","4 Year",10270,12506,27956,56000,103900,24,60.24
+"Georgia State University","Public","4 Year",11378,10858,29432,50600,90800,18,59.39
+"Kentucky State University","Public","4 Year",6690,8090,19390,40700,73100,13,57.89
+"Nova Southeastern University","Private","4 Year",13250,30900,30900,50200,89800,9,55.90
+"Hawaii Pacific University","Private","4 Year",14800,25980,25980,52200,93500,15,54.38
+"North Carolina Wesleyan College","Private","4 Year",10800,31000,31000,45300,78800,8,53.10
+"Felician University","Private","4 Year",12880,34315,34315,53200,98200,10,53.00
+"Agnes Scott College","Private","4 Year",12330,41160,41160,46000,83600,26,52.92
+"University of Baltimore","Public","4 Year",0,8958,21076,51000,89600,2,52.57
+"Barry University","Private","4 Year",11100,29850,29850,47400,84400,12,52.02
+"Kean University","Public","4 Year",14470,12348,19383,48200,90000,10,51.24
+"Limestone College","Private","4 Year",9765,26000,26000,42100,76500,10,51.24
+"Florida Atlantic University","Public","4 Year",11896,6039,21595,49400,91200,15,50.39
+"Faulkner University","Private","4 Year",7750,21690,21690,39400,71300,2,50.19
+"Albertus Magnus College","Private","4 Year",13200,32060,32060,49700,85900,2,49.48
+"Western New Mexico University","Public","4 Year",9136,6824,15231,41700,76700,4,49.34
+"Webster University","Private","4 Year",11050,27900,27900,46500,83500,2,49.01
+"Francis Marion University","Public","4 Year",7948,11160,21544,42900,77600,18,48.99
+"University of Illinois at Chicago","Public","4 Year",12074,13764,26980,56300,103800,31,48.51
+"University of West Alabama","Public","4 Year",8116,10040,18490,42700,76100,4,47.46
+"William Paterson University of New Jersey","Public","4 Year",11445,13060,21260,50500,90200,7,47.19
+"Loyola Marymount University","Private","4 Year",14490,48522,48522,58500,113300,9,46.99
+"University of San Francisco","Private","4 Year",14830,48066,48066,60600,109900,6,46.72
+"Columbus State University","Public","4 Year",9880,7200,20682,43300,77900,10,45.95
+"Andrews University","Private","4 Year",9078,29288,29288,47600,85000,7,45.90
+"University of Houston-Clear Lake","Public","4 Year",0,8500,24731,50700,94800,29,45.75
+"New Jersey Institute of Technology","Public","4 Year",13600,17338,32750,64600,121300,75,45.32
+"Northeastern State University","Public","4 Year",7638,6650,14720,44500,77600,7,45.32
+"Menlo College","Private","4 Year",14225,42800,42800,61900,112400,0,45.21
+"Christian Brothers University","Private","4 Year",7400,32820,32820,51500,96500,14,44.99
+"Saint Xavier University","Private","4 Year",11340,33880,33880,49400,91200,10,43.83
+"Saint Mary's College of California","Private","4 Year",15370,47280,47280,59900,110800,5,43.82
+"University of Memphis","Public","4 Year",9975,9701,21413,47200,85800,12,43.81
+"Troy University","Public","4 Year",8185,12460,22875,44500,81500,8,43.56
+"Swarthmore College","Private","4 Year",15474,52588,52588,67500,123200,45,43.51
+"Wellesley College","Private","4 Year",16468,53732,53732,58900,106200,34,43.48
+"Amherst College","Private","4 Year",14740,56426,56426,63800,116500,32,43.47
+"University of West Georgia","Public","4 Year",10918,7292,20774,46700,82700,9,43.45
+"Lamar University","Public","4 Year",8920,10192,22642,53300,101200,16,42.99
+"Mid-America Christian University","Private","4 Year",8036,18334,18334,40700,74100,0,42.86
+"Mercer University","Private","4 Year",11616,36894,36894,48500,85100,14,42.64
+"Cameron University","Public","4 Year",5452,6450,15870,43900,81500,14,42.57
+"Southern Adventist University","Private","4 Year",6940,21950,21950,47500,84000,9,42.49
+"University of Bridgeport","Private","4 Year",13860,32850,32850,49900,93600,31,42.48
+"Amridge University","Private","4 Year",0,6900,6900,35700,65900,0,42.24
+"Valdosta State University","Public","4 Year",8110,7476,20958,43400,81000,7,42.03
+"Southeastern Oklahoma State University","Public","4 Year",6970,6750,15390,45000,80500,15,41.93
+"Pomona College","Private","4 Year",16716,52780,52780,63800,117200,37,41.33
+"Ferrum College","Private","4 Year",11500,34175,34175,43000,80600,6,41.28
+"Fort Lewis College","Public","4 Year",9878,9040,19696,48300,82600,19,41.28
+"University of Central Florida","Public","4 Year",9617,6368,22467,49700,88600,16,41.04
+"Montclair State University","Public","4 Year",15564,12790,20578,50800,95400,9,40.44
+"Old Dominion University","Public","4 Year",11620,10872,29772,50200,89900,19,40.35
+"Stevenson University","Private","4 Year",13130,36182,36182,50400,91600,15,39.82
+"Marymount University","Private","4 Year",13190,31466,31466,52300,93100,15,39.76
+"Metropolitan State University","Public","4 Year",0,7879,14980,50200,85900,11,39.66
+"Mississippi University for Women","Public","4 Year",7424,7040,7040,39500,69500,2,39.61
+"University of Southern California","Private","4 Year",15395,56225,56225,64500,120600,23,39.52
+"Delta State University","Public","4 Year",7722,7246,7246,40800,74200,5,39.46
+"Harvey Mudd College","Private","4 Year",18127,56876,56876,88800,158200,85,39.05
+"Texas Tech University Health Sciences Center","Public","4 Year",0,7911,20361,61300,104900,3,38.88
+"California Institute of Technology","Private","4 Year",15525,52362,52362,84100,151600,97,38.61
+"George Mason University","Public","4 Year",11460,12462,35922,58900,105700,23,38.47
+"Adams State University","Public","4 Year",8782,9440,20456,44400,81400,3,38.46
+"Rogers State University","Public","4 Year",8616,6870,15210,41400,73800,11,38.39
+"Auburn University at Montgomery","Public","4 Year",6980,10288,22048,45000,79600,12,38.38
+"Virginia Commonwealth University","Public","4 Year",10428,14490,35138,49900,88200,18,38.36
+"University of Arkansas at Little Rock","Public","4 Year",8930,8966,21206,45600,80800,13,38.34
+"Santa Clara University","Private","4 Year",14910,51711,51711,69900,134700,29,38.03
+"Bellevue College","Public","2 Year",0,4258,9689,50100,88500,14,37.75
+"Park University","Private","4 Year",8200,12650,12650,48500,85000,7,37.56
+"Barnard College","Private","4 Year",17225,55032,55032,59200,109800,19,37.16
+"Augusta University","Public","4 Year",9640,10758,29796,47000,84400,10,37.06
+"Stanford University","Private","4 Year",15763,51354,51354,79000,145200,51,37.03
+"University of Miami","Private","4 Year",14108,50226,50226,56200,99600,22,36.59
+"Rice University","Private","4 Year",14000,47350,47350,71000,129500,45,36.57
+"University of Arizona","Public","4 Year",12550,12487,36386,56100,101000,23,36.51
+"Frostburg State University","Public","4 Year",10202,9172,22892,49600,87000,19,36.19
+"Williams College","Private","4 Year",14500,55450,55450,67500,127500,32,35.84
+"New Mexico Institute of Mining and Technology","Public","4 Year",8510,7770,22268,64700,120400,91,35.83
+"Lander University","Public","4 Year",9100,11700,21300,42600,77100,9,35.77
+"Oglethorpe University","Private","4 Year",13200,38100,38100,52400,91400,12,35.65
+"Georgia Southern University","Public","4 Year",10070,7422,20904,49000,88000,17,35.38
+"La Salle University","Private","4 Year",15080,30560,30560,55800,104800,5,35.21
+"Winthrop University","Public","4 Year",9312,15590,29846,44300,79700,9,35.11
+"Seton Hall University","Private","4 Year",15800,42470,42470,57100,103800,8,35.10
+"University of San Diego","Private","4 Year",12980,49358,49358,58900,109400,12,34.94
+"Loyola University New Orleans","Private","4 Year",13380,39692,39692,47900,88600,4,34.80
+"Notre Dame of Maryland University","Private","4 Year",11850,36900,36900,48300,86400,3,34.73
+"University of New Orleans","Public","4 Year",10575,9054,13890,49900,91600,23,34.61
+"Charleston Southern University","Private","4 Year",10200,25500,25500,42800,76300,9,34.57
+"Oklahoma Christian University","Private","4 Year",8190,22760,22760,49700,87900,41,34.55
+"Cardinal Stritch University","Private","4 Year",8440,29998,29998,47000,82500,2,34.32
+"Newberry College","Private","4 Year",10666,26424,26424,41200,74700,14,34.31
+"Claremont McKenna College","Private","4 Year",16705,54405,54405,68500,125400,16,34.21
+"DePaul University","Private","4 Year",14235,39975,39975,55700,102900,15,34.20
+"University of Southern Mississippi","Public","4 Year",9857,8734,10734,45100,83900,11,34.07
+"Oral Roberts University","Private","4 Year",9450,27728,27728,45900,85100,8,34.04
+"Oklahoma Panhandle State University","Public","4 Year",4695,8194,9133,42300,74400,10,33.90
+"Emory University","Private","4 Year",14456,51306,51306,62000,110800,20,33.86
+"Kennesaw State University","Public","4 Year",11467,7432,21158,52500,94600,22,33.78
+"Northern Illinois University","Public","4 Year",10880,12262,12262,53000,95500,20,33.77
+"Barton College","Private","4 Year",10120,30880,30880,42400,77900,6,33.72
+"University of Arkansas at Monticello","Public","4 Year",6824,7696,13546,43500,78300,2,33.68
+"Trinity University","Private","4 Year",13464,42976,42976,54900,102900,27,33.35
+"University of Dallas","Private","4 Year",12400,40652,40652,53000,96400,16,33.28
+"Charter Oak State College","Public","4 Year",0,10161,13101,49200,85900,2,33.23
+"Pacific University","Private","4 Year",12528,44298,44298,50200,94000,8,32.97
+"University of Florida","Public","4 Year",10120,6381,28658,55800,102800,29,32.88
+"William Carey University","Private","4 Year",6810,12600,12600,41100,71800,6,32.80
+"Seattle University","Private","4 Year",12288,44610,44610,60600,113700,12,32.71
+"Southern Wesleyan University","Private","4 Year",9030,25476,25476,42900,74600,5,32.68
+"Massachusetts Institute of Technology","Private","4 Year",15510,51832,51832,86300,155200,69,32.66
+"Princeton University","Private","4 Year",16290,49330,49330,75200,139400,48,32.46
+"Cornell University","Private","4 Year",14816,55188,55188,70100,128200,43,32.40
+"Henderson State University","Public","4 Year",7504,8436,10086,42900,79800,5,32.40
+"Northern Arizona University","Public","4 Year",10282,11564,25828,49600,90000,12,32.34
+"Brown University","Private","4 Year",14670,55656,55656,68200,127600,43,32.22
+"University of Alabama at Birmingham","Public","4 Year",6400,10710,24630,48600,87200,17,32.05
+"University of North Carolina at Charlotte","Public","4 Year",11100,7044,20478,52500,92600,25,32.01
+"Methodist University","Private","4 Year",12890,33846,33846,45800,80500,9,31.90
+"Pfeiffer University","Private","4 Year",11226,30234,30234,44200,78000,4,31.84
+"Austin Peay State University","Public","4 Year",10700,8411,24467,44200,78200,10,31.72
+"Lawrence Technological University","Private","4 Year",9950,33570,33570,57900,108400,60,31.71
+"Texas Tech University","Public","4 Year",9530,11045,23495,56800,106500,22,31.69
+"Central Christian College of Kansas","Private","4 Year",8286,26674,26674,37100,66100,2,31.67
+"Wayne State University","Public","4 Year",10427,13347,28241,50800,91700,21,31.64
+"Harvard University","Private","4 Year",17160,50420,50420,74800,146800,19,31.62
+"Arizona Christian University","Private","4 Year",10674,26796,26796,42600,76600,7,31.61
+"University of Pennsylvania","Private","4 Year",15616,55584,55584,72800,133900,21,31.46
+"Western Connecticut State University","Public","4 Year",13072,10819,22059,51700,88100,6,31.22
+"New York University","Private","4 Year",18156,51828,51828,63100,117700,18,31.14
+"University of Central Oklahoma","Public","4 Year",7970,7488,18376,45300,82900,8,31.13
+"Loyola University Chicago","Private","4 Year",14480,44048,44048,53400,96000,15,31.01
+"Johns Hopkins University","Private","4 Year",15836,54240,54240,67200,117100,31,30.83
+"Yale University","Private","4 Year",16000,53430,53430,70300,138300,22,30.77
+"Hofstra University","Private","4 Year",15948,46760,46760,57300,110400,7,30.70
+"Baylor University","Private","4 Year",12595,45727,45727,55500,101400,16,30.65
+"Bowdoin College","Private","4 Year",14698,53922,53922,61300,112000,37,30.47
+"Dartmouth College","Private","4 Year",15756,55453,55453,71500,130900,35,30.42
+"University of Portland","Private","4 Year",13450,45904,45904,58500,104900,28,30.41
+"Smith College","Private","4 Year",17520,52404,52404,52700,98200,26,30.38
+"Lake Forest College","Private","4 Year",10390,47064,47064,55400,102600,21,30.32
+"Lewis University","Private","4 Year",10578,32450,32450,49700,89800,14,30.32
+"Avila University","Private","4 Year",7200,19900,19900,45900,81200,3,30.26
+"Knox College","Private","4 Year",9870,46554,46554,50600,95400,24,30.09
+"Southern Nazarene University","Private","4 Year",8496,25188,25188,46100,81000,5,30.08
+"Saint Martin's University","Private","4 Year",11445,37356,37356,53200,91800,29,29.98
+"Mississippi College","Private","4 Year",10300,18026,18026,45200,79500,20,29.88
+"Thomas Edison State University","Public","4 Year",0,7519,9967,52500,95600,0,29.88
+"Rush University","Private","4 Year",0,24900,24900,63500,107600,6,29.71
+"Florida State University","Public","4 Year",10816,6516,21683,50800,92700,18,29.69
+"University of South Alabama","Public","4 Year",7620,9870,19740,47700,86400,17,29.64
+"University of Louisiana at Monroe","Public","4 Year",7850,8734,20834,48500,92500,7,29.56
+"University of Mobile","Private","4 Year",9600,22820,22820,40600,74100,7,29.56
+"Towson University","Public","4 Year",13034,9940,23208,51200,91200,15,29.50
+"Duke University","Private","4 Year",15178,55695,55695,71100,132100,26,29.49
+"Shorter University","Private","4 Year",9400,22370,22370,45600,79900,6,29.37
+"Alaska Pacific University","Private","4 Year",7300,20830,20830,50300,90000,6,29.36
+"Seattle Pacific University","Private","4 Year",11796,42939,42939,53600,103400,9,29.36
+"Northwestern University","Private","4 Year",16626,54567,54567,63400,115400,20,29.33
+"Southern Connecticut State University","Public","4 Year",12860,10875,22115,48500,83600,6,29.33
+"Middle Tennessee State University","Public","4 Year",9436,9206,28364,46500,81100,9,29.27
+"Fordham University","Private","4 Year",17969,52687,52687,58700,112500,10,29.25
+"Rhode Island School of Design","Private","4 Year",13400,50960,50960,55500,100600,0,29.24
+"MCPHS University","Private","4 Year",16400,32705,32705,65900,121800,2,29.16
+"Drew University","Private","4 Year",14108,39500,39500,52800,95000,16,29.15
+"Maryland Institute College of Art","Private","4 Year",13280,48630,48630,49000,84500,0,29.09
+"Haverford College","Private","4 Year",16402,54592,54592,59300,112300,36,28.89
+"Regis University","Private","4 Year",11560,36810,36810,55500,94800,13,28.81
+"Nicholls State University","Public","4 Year",9938,7982,9075,44500,84300,5,28.70
+"University of Science and Arts of Oklahoma","Public","4 Year",6350,7215,17565,37300,67400,11,28.65
+"Cornish College of the Arts","Private","4 Year",12400,41642,41642,49000,86400,0,28.55
+"University of Illinois at Urbana-Champaign","Public","4 Year",11308,15094,31664,62600,115300,36,28.41
+"Catawba College","Private","4 Year",10488,30520,30520,42500,78100,11,28.31
+"University of North Florida","Public","4 Year",9976,6394,20112,48800,86600,11,28.27
+"Louisiana College","Private","4 Year",5618,17000,17000,44800,79800,4,28.26
+"Berea College","Private","4 Year",6764,39990,39990,39500,71600,27,28.13
+"Belmont Abbey College","Private","4 Year",10355,18500,18500,46700,82900,7,28.08
+"Drexel University","Private","4 Year",14079,53279,53279,61700,114800,28,28.08
+"Centenary College of Louisiana","Private","4 Year",13400,36580,36580,47000,88400,26,27.95
+"Coastal Carolina University","Public","4 Year",9190,11536,26648,44700,77600,14,27.94
+"University of North Carolina at Chapel Hill","Public","4 Year",11190,8987,35170,55000,100800,19,27.93
+"McPherson College","Private","4 Year",8788,28951,28951,44500,80900,9,27.92
+"Eastern Michigan University","Public","4 Year",9854,13959,13959,47300,86700,6,27.79
+"University of Wisconsin-Parkside","Public","4 Year",8026,7529,15518,46000,81400,17,27.78
+"East Carolina University","Public","4 Year",9606,7188,23465,48400,85400,11,27.75
+"Central Connecticut State University","Public","4 Year",12176,10616,21856,53100,93700,15,27.72
+"William Penn University","Private","4 Year",6952,25600,25600,43900,78300,7,27.58
+"University of Hartford","Private","4 Year",12476,40694,40694,55200,101600,15,27.52
+"Rollins College","Private","4 Year",14735,49760,49760,49000,87000,7,27.47
+"Central Washington University","Public","4 Year",11115,8072,23053,52700,93200,13,27.45
+"Southeastern Louisiana University","Public","4 Year",8420,8165,20643,46700,83900,8,27.44
+"Cleveland State University","Public","4 Year",13560,10625,14992,48300,88600,20,27.40
+"Central Baptist College","Private","4 Year",7500,16200,16200,36900,68000,3,27.39
+"University of Louisiana at Lafayette","Public","4 Year",8516,10616,24344,48200,92500,19,27.15
+"Willamette University","Private","4 Year",12440,50074,50074,52200,97700,14,27.05
+"Huntingdon College","Private","4 Year",9750,27400,27400,42400,78900,14,26.98
+"Carnegie Mellon University","Private","4 Year",14418,55465,55465,75900,136100,66,26.95
+"Rider University","Private","4 Year",14700,41310,41310,51600,99000,5,26.94
+"Campbell University","Private","4 Year",11430,32500,32500,46300,82400,8,26.93
+"Manhattan College","Private","4 Year",16200,43480,43480,64000,125700,40,26.93
+"Portland State University","Public","4 Year",10428,9105,27060,50800,90500,16,26.82
+"Southwestern Oklahoma State University","Public","4 Year",5830,7035,13935,47900,90800,5,26.73
+"Reed College","Private","4 Year",14210,56340,56340,56100,104900,26,26.69
+"Jacksonville University","Private","4 Year",14080,36670,36670,50100,90400,5,26.66
+"New England College","Private","4 Year",14222,37914,37914,45700,86400,24,26.59
+"Queens University of Charlotte","Private","4 Year",10860,34684,34684,49400,86600,9,26.51
+"Washington State University","Public","4 Year",11398,11581,26365,55900,103700,20,26.50
+"Case Western Reserve University","Private","4 Year",15190,49042,49042,66600,117800,37,26.35
+"Stetson University","Private","4 Year",13052,46030,46030,47000,86000,7,26.28
+"Ramapo College of New Jersey","Public","4 Year",12450,14374,23715,51600,95200,12,26.22
+"University of Central Arkansas","Public","4 Year",6854,8751,15274,44900,79800,8,26.21
+"Pacific Lutheran University","Private","4 Year",10790,42066,42066,54500,98100,20,26.13
+"Spring Hill College","Private","4 Year",13462,39464,39464,46600,89100,12,26.09
+"Jacksonville State University","Public","4 Year",8100,10425,20145,43800,80000,7,26.08
+"Widener University","Private","4 Year",14446,45948,45948,55700,100100,13,25.94
+"Rowan University","Public","4 Year",12552,13697,22339,51100,91200,21,25.86
+"Holy Cross College","Private","4 Year",11500,30820,30820,48100,87800,0,25.77
+"Rhode Island College","Public","4 Year",11829,8929,21692,47200,83500,5,25.77
+"Columbia International University","Private","4 Year",8150,23690,23690,36600,66200,0,25.66
+"Southern Vermont College","Private","4 Year",11000,25511,25511,42900,78700,17,25.60
+"Oklahoma Wesleyan University","Private","4 Year",8644,26956,26956,43300,78700,1,25.58
+"University of Chicago","Private","4 Year",16350,58230,58230,64000,114200,22,25.58
+"Kalamazoo College","Private","4 Year",9756,48516,48516,51600,94500,31,25.46
+"Spalding University","Private","4 Year",7600,24500,24500,44800,79200,0,25.44
+"Eastern Washington University","Public","4 Year",12793,7323,24444,49500,87500,17,25.33
+"Grinnell College","Private","4 Year",12810,52392,52392,53400,96500,41,25.32
+"Vanderbilt University","Private","4 Year",16234,49816,49816,65400,119100,23,25.31
+"Southern Methodist University","Private","4 Year",16845,54493,54493,59700,110400,22,25.28
+"Cornell College","Private","4 Year",9384,42299,42299,49600,90600,22,25.23
+"Friends University","Private","4 Year",7972,28415,28415,44700,76500,14,25.13
+"Tufts University","Private","4 Year",14560,56382,56382,65200,118100,25,25.12
+"Shenandoah University","Private","4 Year",10370,32530,32530,48700,86600,7,25.10
+"Colorado Christian University","Private","4 Year",11846,31866,31866,46800,80100,2,25.06
+"New College of Florida","Public","4 Year",9264,6919,29944,47300,86500,4,24.94
+"Stephens College","Private","4 Year",10632,30950,30950,42800,77200,6,24.94
+"Boston University","Private","4 Year",15720,53948,53948,61400,113600,25,24.87
+"University of the Ozarks","Private","4 Year",7400,24230,24230,42300,74500,16,24.87
+"Mississippi State University","Public","4 Year",10090,8760,23360,51100,94100,27,24.75
+"Western Governors University","Private","4 Year",0,6670,6670,54500,91500,9,24.62
+"Colorado College","Private","4 Year",12512,55470,55470,53100,97900,23,24.58
+"University of Saint Joseph","Private","4 Year",11428,39173,39173,49900,88800,9,24.48
+"Denison University","Private","4 Year",12710,51960,51960,54400,104800,22,24.32
+"Stockton University","Public","4 Year",12282,13739,20866,47400,85800,16,24.27
+"Indiana State University","Public","4 Year",10590,9090,19836,47900,85600,8,24.21
+"Savannah College of Art and Design","Private","4 Year",14550,36630,36630,46800,80100,3,24.18
+"Wichita State University","Public","4 Year",11252,8271,17452,48700,87300,24,24.17
+"LeTourneau University","Private","4 Year",9970,30210,30210,56600,98900,21,24.15
+"McNeese State University","Public","4 Year",8704,7859,18934,50200,88200,13,24.09
+"Rensselaer Polytechnic Institute","Private","4 Year",15260,53880,53880,71300,134100,78,24.07
+"Oklahoma City University","Private","4 Year",8896,31026,31026,47700,87900,9,23.95
+"University of Georgia","Public","4 Year",10038,11830,30404,54400,100700,14,23.94
+"Carleton College","Private","4 Year",14085,54759,54759,58800,109900,45,23.87
+"Albany College of Pharmacy and Health Sciences","Private","4 Year",10920,35105,35105,81000,144800,2,23.80
+"Colorado Mesa University","Public","4 Year",10925,9243,22440,47800,81500,7,23.79
+"Bellevue University","Private","4 Year",8730,9390,9390,49400,84800,23,23.77
+"Tabor College","Private","4 Year",9850,28245,28245,43300,77500,7,23.76
+"Bastyr University","Private","4 Year",7590,26166,26166,48400,86300,0,23.71
+"Walla Walla University","Private","4 Year",4275,28035,28035,53700,97800,22,23.64
+"University of Connecticut","Public","4 Year",12874,15730,38098,59100,105200,24,23.57
+"Western Washington University","Public","4 Year",11466,8132,23544,55000,99300,16,23.55
+"University of Northern Colorado","Public","4 Year",11204,9786,21474,47700,87100,7,23.52
+"Davidson College","Private","4 Year",14372,51447,51447,57300,106900,28,23.45
+"University of Puget Sound","Private","4 Year",12540,49776,49776,54200,101300,21,23.43
+"Boston College","Private","4 Year",14478,55464,55464,63600,115400,13,23.38
+"College of the Holy Cross","Private","4 Year",14520,52770,52770,61800,114600,24,23.36
+"Lindenwood University","Private","4 Year",9000,17600,17600,45100,78500,9,23.25
+"Clark College","Public","2 Year",0,4287,9718,43500,78400,9,23.21
+"Middlebury College","Private","4 Year",15530,54450,54450,60400,109800,19,23.21
+"University of Richmond","Private","4 Year",12250,52610,52610,59800,107500,13,23.19
+"Hood College","Private","4 Year",12700,39492,39492,47900,82600,32,23.04
+"Babson College","Private","4 Year",16312,51104,51104,72000,133800,0,22.99
+"Salisbury University","Public","4 Year",11950,9824,19526,50400,89800,12,22.83
+"University of Dubuque","Private","4 Year",9930,34110,34110,44200,79700,7,22.82
+"Oklahoma Baptist University","Private","4 Year",7350,28258,28258,43900,76600,8,22.79
+"Radford University","Public","4 Year",9406,11210,22845,48900,82900,10,22.71
+"Creighton University","Private","4 Year",11036,39916,39916,53500,95800,9,22.63
+"Goucher College","Private","4 Year",14506,44300,44300,49400,90600,11,22.55
+"Kansas Wesleyan University","Private","4 Year",9500,29500,29500,44700,79400,10,22.54
+"Newman University","Private","4 Year",8326,30724,30724,48000,88500,11,22.43
+"University of Oregon","Public","4 Year",12963,11898,35478,51800,95800,13,22.38
+"Oberlin College","Private","4 Year",16338,55054,55054,53100,96800,21,22.36
+"Randolph College","Private","4 Year",13580,39585,39585,47000,86100,23,22.08
+"Oregon Institute of Technology","Public","4 Year",9058,9987,28056,61200,106800,27,22.00
+"Brandeis University","Private","4 Year",15440,55395,55395,60600,113200,29,21.98
+"Pacific Northwest College of Art","Private","4 Year",12860,38250,38250,46300,85000,0,21.97
+"Oregon State University","Public","4 Year",12855,11166,30141,56200,104800,34,21.88
+"University of New Haven","Private","4 Year",15900,39270,39270,52100,94800,25,21.66
+"Eastern Connecticut State University","Public","4 Year",13560,11356,22596,49200,87800,14,21.52
+"University of Louisville","Public","4 Year",9226,11656,27278,49500,87600,18,21.52
+"University of Toledo","Public","4 Year",11434,9795,19133,51800,92500,21,21.41
+"Loyola University Maryland","Private","4 Year",14430,49085,49085,59900,111200,8,21.40
+"Trevecca Nazarene University","Private","4 Year",8400,25598,25598,45300,81700,5,21.30
+"University of Mississippi","Public","4 Year",10696,8660,24614,48500,89100,12,21.22
+"Northwestern Oklahoma State University","Public","4 Year",4780,7036,14153,42200,76800,11,21.19
+"University of North Carolina School of the Arts","Public","4 Year",9021,9358,25501,46400,82400,0,21.19
+"Oregon Health & Science University","Public","4 Year",0,19176,33666,65400,108300,10,21.11
+"Wake Forest University","Private","4 Year",16032,53322,53322,60700,114800,13,21.03
+"University of Notre Dame","Private","4 Year",15410,53391,53391,67000,130500,28,21.02
+"College for Creative Studies","Private","4 Year",8800,44110,44110,51200,89800,0,20.97
+"College of Saint Mary","Private","4 Year",7700,20350,20350,43900,77700,9,20.92
+"Macalester College","Private","4 Year",12156,54344,54344,53600,100400,31,20.79
+"Western Michigan University","Public","4 Year",10143,12483,15373,50900,92200,16,20.78
+"Erskine College","Private","4 Year",10900,34560,34560,43500,78000,28,20.72
+"University of Detroit Mercy","Private","4 Year",9496,28000,28000,51800,92800,13,20.71
+"Northeastern University","Private","4 Year",16880,51387,51387,62500,109700,40,20.68
+"University of Montevallo","Public","4 Year",9330,12760,25780,38900,70700,7,20.59
+"Presbyterian College","Private","4 Year",10480,38660,38660,48800,89900,14,20.55
+"Lenoir-Rhyne University","Private","4 Year",12510,36400,36400,46400,86300,7,20.54
+"Bates College","Private","4 Year",15224,53794,53794,59500,111900,23,20.47
+"Christopher Newport University","Public","4 Year",11460,14754,27220,50800,87200,25,20.46
+"MidAmerica Nazarene University","Private","4 Year",8708,30736,30736,46200,78500,1,20.43
+"Saint Louis University","Private","4 Year",12290,43884,43884,54200,95300,13,20.41
+"Villanova University","Private","4 Year",14020,53308,53308,65100,119500,23,20.26
+"Monmouth University","Private","4 Year",13981,38138,38138,52200,93200,13,20.22
+"University of North Alabama","Public","4 Year",9200,10370,18680,43000,75600,6,20.22
+"Colby College","Private","4 Year",14190,55210,55210,59200,103300,25,20.19
+"Whitman College","Private","4 Year",13174,51764,51764,54600,102600,33,20.09
+"University of Rochester","Private","4 Year",15938,53926,53926,61100,112700,32,20.01
+"Illinois State University","Public","4 Year",9850,14516,26040,51200,95000,10,19.98
+"Wentworth Institute of Technology","Private","4 Year",14190,33950,33950,62700,112700,39,19.94
+"Brescia University","Private","4 Year",9200,22400,22400,44300,81200,7,19.89
+"Colgate University","Private","4 Year",13995,55870,55870,68400,130600,26,19.81
+"Texas Christian University","Private","4 Year",12804,46950,46950,56000,98700,9,19.74
+"Marquette University","Private","4 Year",12720,41870,41870,57800,105900,25,19.66
+"Medical University of South Carolina","Public","4 Year",0,26826,26826,54800,92700,6,19.63
+"University of Arkansas for Medical Sciences","Public","4 Year",0,8197,15973,51700,89100,3,19.58
+"Rhodes College","Private","4 Year",11403,47890,47890,51900,97800,25,19.57
+"Maryville University of Saint Louis","Private","4 Year",10088,28470,28470,46800,80100,2,19.46
+"Baker University","Private","4 Year",8410,29830,29830,47800,84200,2,19.45
+"Lewis & Clark College","Private","4 Year",12490,50934,50934,50000,93200,12,19.41
+"DePauw University","Private","4 Year",13020,49704,49704,56600,101000,24,19.28
+"Whitworth University","Private","4 Year",11496,43640,43640,49900,88800,18,19.22
+"Norwich University","Private","4 Year",13840,40016,40016,57000,99100,20,19.17
+"University of Delaware","Public","4 Year",12862,13680,34310,58600,105400,22,19.07
+"University of Utah","Public","4 Year",10262,9222,29215,54800,102600,22,19.02
+"Western Oregon University","Public","4 Year",10415,9540,26415,44500,79300,5,18.91
+"Florida Institute of Technology","Private","4 Year",12880,41850,41850,58300,105400,48,18.90
+"Northwest Christian University","Private","4 Year",9300,30050,30050,45200,81100,5,18.87
+"Kenyon College","Private","4 Year",12510,55930,55930,55000,103800,17,18.83
+"University of North Georgia","Public","4 Year",7876,7336,21148,47300,85600,8,18.83
+"Lehigh University","Private","4 Year",13600,52930,52930,69500,134100,52,18.82
+"Illinois Institute of Technology","Private","4 Year",12762,47296,47296,64600,118500,64,18.81
+"Central Michigan University","Public","4 Year",10076,12960,12960,47700,83600,13,18.76
+"University of Denver","Private","4 Year",13005,50556,50556,55700,105100,12,18.74
+"Walsh College of Accountancy and Business Administration","Private","4 Year",0,17625,17625,49400,85200,5,18.74
+"Arkansas Tech University","Public","4 Year",7870,9068,15848,45000,76900,7,18.66
+"Maryville College","Private","4 Year",11424,34880,34880,42800,75300,16,18.63
+"Athens State University","Public","4 Year",0,6810,12870,45000,78800,9,18.57
+"University of Rhode Island","Public","4 Year",12950,14138,30862,54500,99700,18,18.52
+"Gonzaga University","Private","4 Year",11944,43210,43210,57800,107600,19,18.50
+"University of Kansas","Public","4 Year",10350,11148,27358,53000,98600,16,18.50
+"Lawrence University","Private","4 Year",10341,47475,47475,51500,98800,25,18.40
+"Millsaps College","Private","4 Year",13730,39910,39910,49300,88700,24,18.29
+"Illinois Wesleyan University","Private","4 Year",10984,47636,47636,53100,96000,18,18.28
+"Southern Oregon University","Public","4 Year",13199,9654,25584,46000,81200,6,18.27
+"Minneapolis College of Art and Design","Private","4 Year",5610,39210,39210,47400,84700,0,18.26
+"Coe College","Private","4 Year",9480,45000,45000,47200,86900,24,18.25
+"Bentley University","Private","4 Year",16320,49880,49880,66600,116600,7,18.20
+"Connecticut College","Private","4 Year",15150,54820,54820,57500,100800,30,18.11
+"Nazarene Bible College","Private","4 Year",0,14700,14700,33600,60100,0,18.11
+"Oakland University","Public","4 Year",10100,12606,24230,51300,93300,19,18.08
+"Western New England University","Private","4 Year",13590,36804,36804,56400,103000,21,18.05
+"McDaniel College","Private","4 Year",11430,43260,43260,51100,94600,6,17.97
+"George Fox University","Private","4 Year",11250,36020,36020,51200,89600,8,17.93
+"Marylhurst University","Private","4 Year",0,20835,20835,46200,79800,0,17.91
+"North Central College","Private","4 Year",11019,38880,38880,50400,92900,9,17.88
+"Valparaiso University","Private","4 Year",11860,40260,40260,53300,98000,31,17.88
+"Quinnipiac University","Private","4 Year",14540,47960,47960,55900,97700,10,17.86
+"Eckerd College","Private","4 Year",12588,44540,44540,49200,88400,25,17.76
+"Ohio Wesleyan University","Private","4 Year",12430,45760,45760,51300,99200,21,17.76
+"Beloit College","Private","4 Year",8830,50040,50040,47400,85700,24,17.73
+"Longwood University","Public","4 Year",11746,13340,29300,47300,83300,9,17.70
+"New England Institute of Technology","Private","4 Year",13065,29940,29940,51700,93200,14,17.69
+"Hendrix College","Private","4 Year",12284,45790,45790,48100,90300,33,17.60
+"Lipscomb University","Private","4 Year",12652,32144,32144,49000,84800,12,17.58
+"Hampden-Sydney College","Private","4 Year",13558,45746,45746,58300,108600,20,17.47
+"Manchester University","Private","4 Year",9580,32758,32758,46900,84700,10,17.41
+"University of Tulsa","Private","4 Year",11116,41509,41509,58700,107200,36,17.34
+"Michigan State University","Public","4 Year",10322,14460,39765,55300,100800,20,17.33
+"Peru State College","Public","4 Year",8010,7452,7482,42600,74800,6,17.33
+"Louisiana Tech University","Public","4 Year",6495,9645,18558,53100,100700,24,17.32
+"Boise State University","Public","4 Year",10692,7694,23776,50100,86400,14,17.29
+"Wofford College","Private","4 Year",12685,43845,43845,51300,96600,28,17.19
+"Wabash College","Private","4 Year",10050,43450,43450,62200,114400,34,17.17
+"University of Charleston","Private","4 Year",9180,30900,30900,44600,81900,4,17.15
+"James Madison University","Public","4 Year",10092,12016,28416,57400,102600,12,17.14
+"Virginia Military Institute","Public","4 Year",9428,18862,45706,65900,120600,47,17.06
+"Lafayette College","Private","4 Year",15640,52880,52880,66500,122500,47,16.86
+"Washburn University","Public","4 Year",8237,8870,19940,47000,83000,4,16.86
+"College of Charleston","Public","4 Year",12166,12738,31920,47300,85100,20,16.73
+"Kentucky Wesleyan College","Private","4 Year",9764,26440,26440,42100,76800,14,16.64
+"Freed-Hardeman University","Private","4 Year",8260,21950,21950,43700,78200,9,16.60
+"Mayville State University","Public","4 Year",7840,6666,9399,43700,81300,10,16.56
+"Western Carolina University","Public","4 Year",9682,4220,8220,44700,77700,8,16.55
+"Multnomah University","Private","4 Year",8870,25900,25900,40500,76400,0,16.33
+"Goldey-Beacom College","Private","4 Year",6400,24300,24300,49800,86900,25,16.30
+"Bryant University","Private","4 Year",15702,43973,43973,60500,108600,8,16.26
+"Western State Colorado University","Public","4 Year",9635,10114,21586,44800,81500,19,16.25
+"William Jewell College","Private","4 Year",9930,34400,34400,51400,94500,12,16.13
+"Emporia State University","Public","4 Year",8912,6758,20675,43500,78000,9,16.11
+"Colorado School of Mines","Public","4 Year",13169,18964,38584,75600,139600,93,16.10
+"Midland University","Private","4 Year",8776,32558,32558,43800,78100,7,16.08
+"Missouri Western State University","Public","4 Year",0,6466,14137,43400,77700,14,16.08
+"University of Indianapolis","Private","4 Year",10288,29688,29688,47300,84500,5,16.08
+"University of Kentucky","Public","4 Year",12982,12245,29099,51700,96400,19,16.02
+"Cumberland University","Private","4 Year",9290,22890,22890,45500,81000,3,16.00
+"Minot State University","Public","4 Year",6610,7064,7064,44500,74100,7,15.98
+"Dickinson College","Private","4 Year",13698,54661,54661,55800,100100,25,15.91
+"Hamline University","Private","4 Year",10358,41298,41298,48100,90400,5,15.91
+"Wittenberg University","Private","4 Year",10356,39500,39500,52400,105400,22,15.89
+"Saginaw Valley State University","Public","4 Year",10186,10308,24215,46400,82200,12,15.83
+"John Brown University","Private","4 Year",9224,26928,26928,47000,82700,9,15.82
+"Ferris State University","Public","4 Year",9894,12630,12630,50000,89300,8,15.78
+"Lyon College","Private","4 Year",9130,28790,28790,41200,74300,33,15.73
+"Western Kentucky University","Public","4 Year",8343,10602,26496,45500,83100,10,15.72
+"Eastern Oregon University","Public","4 Year",10040,8679,20739,44000,73900,5,15.63
+"Clark University","Private","4 Year",9170,45730,45730,52600,101400,14,15.57
+"Rockhurst University","Private","4 Year",10200,37590,37590,54000,92500,11,15.56
+"Worcester Polytechnic Institute","Private","4 Year",14774,50530,50530,73600,135500,86,15.53
+"Elon University","Private","4 Year",12230,35319,35319,53600,93700,7,15.35
+"Glenville State College","Public","4 Year",0,7327,16565,37400,67700,3,15.32
+"Bucknell University","Private","4 Year",13662,56092,56092,66700,122900,40,15.23
+"West Virginia University Institute of Technology","Public","4 Year",11390,7464,18648,57100,103700,40,15.23
+"High Point University","Private","4 Year",14130,35118,35118,48600,84300,8,15.19
+"Rocky Mountain College","Private","4 Year",8330,28512,28512,46000,82900,12,15.19
+"Georgetown College","Private","4 Year",9780,38650,38650,45000,81900,10,15.13
+"Roanoke College","Private","4 Year",13690,44030,44030,48500,85100,18,15.12
+"Samford University","Private","4 Year",10550,31650,31650,48400,90500,3,14.96
+"Lake Superior State University","Public","4 Year",9882,12090,12090,45900,83500,14,14.91
+"Benedictine College","Private","4 Year",10300,29530,29530,48700,91800,13,14.87
+"Chadron State College","Public","4 Year",7380,7196,7196,42300,76700,3,14.87
+"Kettering College","Private","4 Year",4100,16200,16200,54300,95800,0,14.87
+"University of Idaho","Public","4 Year",8880,7864,25500,52300,97700,22,14.86
+"Lakeview College of Nursing","Private","4 Year",0,16320,16320,55000,94100,0,14.83
+"Sacred Heart University","Private","4 Year",15310,41420,41420,55000,100500,15,14.73
+"Berry College","Private","4 Year",12770,36556,36556,44900,84900,21,14.70
+"Corban University","Private","4 Year",10228,33040,33040,42500,77300,1,14.67
+"University of Scranton","Private","4 Year",15182,44532,44532,56400,99700,12,14.62
+"Jefferson College of Health Sciences","Private","4 Year",5870,26886,26886,55500,97600,1,14.59
+"Bennington College","Private","4 Year",15610,54360,54360,48800,90000,5,14.57
+"Campbellsville University","Private","4 Year",8000,25400,25400,37600,66800,7,14.56
+"Pittsburg State University","Public","4 Year",7778,7298,18642,47100,84900,8,14.55
+"University of Iowa","Public","4 Year",11172,9267,31233,54100,99400,16,14.50
+"Kansas State University","Public","4 Year",9680,10263,25767,52500,97200,18,14.45
+"Idaho State University","Public","4 Year",7207,7420,22940,50800,91800,12,14.42
+"Maine College of Art","Private","4 Year",11890,35000,35000,36300,64600,0,14.38
+"Providence College","Private","4 Year",14700,50390,50390,58900,106900,11,14.38
+"Bradley University","Private","4 Year",10620,33760,33760,55600,104900,38,14.25
+"Converse College","Private","4 Year",10930,18690,18690,39000,71000,8,14.25
+"Belmont University","Private","4 Year",12120,34310,34310,47300,80900,3,14.20
+"Weber State University","Public","4 Year",6279,5831,16585,53900,94000,8,14.20
+"Champlain College","Private","4 Year",15354,41010,41010,51100,88400,14,14.17
+"Prescott College","Private","4 Year",7700,31485,31485,41200,73500,0,14.15
+"Ouachita Baptist University","Private","4 Year",7880,26790,26790,44100,80200,18,14.12
+"University of New England","Private","4 Year",13990,37620,37620,50100,91500,7,14.12
+"Shepherd University","Public","4 Year",10500,7548,18048,47100,87100,12,14.11
+"Wisconsin Lutheran College","Private","4 Year",10190,29725,29725,46200,82500,10,14.08
+"Stevens Institute of Technology","Private","4 Year",15244,52202,52202,75100,139900,79,14.01
+"Dakota State University","Public","4 Year",6873,9276,12249,48400,84300,53,13.98
+"Hastings College","Private","4 Year",9700,30050,30050,48600,87100,14,13.78
+"Muhlenberg College","Private","4 Year",11765,52595,52595,53400,101900,20,13.65
+"Carthage College","Private","4 Year",11990,43550,43550,48900,85400,17,13.64
+"Northwest Nazarene University","Private","4 Year",7400,29300,29300,46200,80600,7,13.61
+"Fort Hays State University","Public","4 Year",8300,5133,15201,45100,79300,6,13.55
+"Asbury University","Private","4 Year",7160,30198,30198,39400,70800,4,13.52
+"Hope College","Private","4 Year",10310,34010,34010,49200,90900,18,13.52
+"West Virginia Wesleyan College","Private","4 Year",8856,31640,31640,47000,85200,21,13.43
+"Centre College","Private","4 Year",10480,41700,41700,49500,88500,22,13.41
+"Webb Institute","Private","4 Year",15050,50175,50175,80800,141800,100,13.33
+"Kettering University","Private","4 Year",8240,43490,43490,69900,125000,74,13.32
+"Ball State University","Public","4 Year",10234,9896,26468,45600,83700,7,13.29
+"Fairfield University","Private","4 Year",14710,48350,48350,62300,116900,17,13.21
+"Sierra Nevada College","Private","4 Year",13357,34241,34241,54000,95500,2,13.19
+"Trine University","Private","4 Year",10810,32175,32175,55100,100300,26,13.14
+"Bellarmine University","Private","4 Year",12250,42200,42200,49000,90700,11,13.11
+"Calvin College","Private","4 Year",10200,34600,34600,50200,91100,23,13.10
+"Clemson University","Public","4 Year",10832,14970,36724,57500,106700,39,13.03
+"Edgewood College","Private","4 Year",11020,29500,29500,49500,87500,5,13.02
+"Stonehill College","Private","4 Year",16000,42746,42746,55900,103200,18,12.96
+"Lindsey Wilson College","Private","4 Year",9385,24850,24850,35300,64100,2,12.95
+"Drury University","Private","4 Year",8096,28365,28365,42600,79400,12,12.93
+"Dickinson State University","Public","4 Year",6898,6765,9544,46400,81200,8,12.91
+"Gettysburg College","Private","4 Year",13010,54480,54480,58400,109300,24,12.91
+"Maharishi University of Management","Private","4 Year",7400,16530,16530,46800,85200,65,12.86
+"Gustavus Adolphus College","Private","4 Year",9910,45400,45400,51200,96800,22,12.74
+"Transylvania University","Private","4 Year",10460,38750,38750,47900,85600,25,12.72
+"South Dakota School of Mines and Technology","Public","4 Year",8440,9779,14021,66500,118500,92,12.69
+"Rose-Hulman Institute of Technology","Private","4 Year",14766,49871,49871,75000,135800,96,12.65
+"Auburn University","Public","4 Year",13332,11276,30524,54400,104500,31,12.62
+"Bluefield State College","Public","4 Year",0,8820,16920,43200,72800,3,12.60
+"West Virginia University","Public","4 Year",10918,8856,24950,54400,99900,22,12.50
+"Cleary University","Private","4 Year",9600,20250,20250,47400,84700,0,12.48
+"Northern Kentucky University","Public","4 Year",10022,10032,19680,49000,87400,12,12.36
+"Goddard College","Private","4 Year",1698,16586,16586,42700,76900,0,12.27
+"East Tennessee State University","Public","4 Year",8472,9277,28459,43700,77300,8,12.26
+"Wayne State College","Public","4 Year",7668,6989,12299,40600,73400,11,12.25
+"Milwaukee School of Engineering","Private","4 Year",10389,40749,40749,65700,117600,69,12.21
+"University of Central Missouri","Public","4 Year",8766,7673,14442,46900,83300,45,12.21
+"Drake University","Private","4 Year",10528,41396,41396,52800,99900,7,12.11
+"Albion College","Private","4 Year",12380,45775,45775,52100,99300,23,12.07
+"Carroll University","Private","4 Year",9484,31918,31918,45600,86500,14,12.07
+"University of Jamestown","Private","4 Year",7570,21976,21976,47600,85400,11,12.06
+"Clarkson College","Private","4 Year",5398,16920,16920,50900,91500,0,11.96
+"Black Hills State University","Public","4 Year",6978,8733,11778,40400,72600,11,11.94
+"Mount Carmel College of Nursing","Private","4 Year",5000,13907,13907,56600,99700,0,11.90
+"Salve Regina University","Private","4 Year",14500,40550,40550,53000,93900,6,11.87
+"John Carroll University","Private","4 Year",11874,41340,41340,51600,97300,16,11.85
+"Iowa State University","Public","4 Year",8720,8988,23392,56100,101300,31,11.80
+"University of Mount Union","Private","4 Year",10200,31260,31260,48300,88500,19,11.80
+"Milligan College","Private","4 Year",7100,33700,33700,41200,74900,5,11.77
+"Colby-Sawyer College","Private","4 Year",14264,42398,42398,46400,83700,7,11.76
+"Northwest Missouri State University","Public","4 Year",10016,9805,16457,46900,85100,26,11.76
+"Alma College","Private","4 Year",10998,40258,40258,48400,89900,15,11.75
+"Mount Marty College","Private","4 Year",7986,27276,27276,41400,76500,5,11.73
+"Clarkson University","Private","4 Year",14908,49444,49444,66400,130100,58,11.70
+"Kentucky Christian University","Private","4 Year",8270,19820,19820,39600,70300,3,11.70
+"Lewis-Clark State College","Public","4 Year",7580,6618,19236,44900,77600,5,11.64
+"Southeast Missouri State University","Public","4 Year",8935,7418,13155,43700,79100,9,11.59
+"Valley City State University","Public","4 Year",6446,7626,17166,39900,68600,3,11.54
+"Eastern Kentucky University","Public","4 Year",9018,9296,19074,45600,80700,5,11.45
+"Missouri University of Science and Technology","Public","4 Year",10274,10169,28499,67300,122600,80,11.38
+"Appalachian State University","Public","4 Year",8304,7214,22021,46600,82700,9,11.37
+"Murray State University","Public","4 Year",9190,9084,24540,44800,79900,9,11.33
+"University of Wyoming","Public","4 Year",10320,5400,17490,52400,98800,25,11.32
+"University of Vermont","Public","4 Year",12462,18276,42516,53200,99400,22,11.31
+"Butler University","Private","4 Year",13830,41120,41120,51800,99300,9,11.26
+"Harding University","Private","4 Year",7044,20135,20135,49200,88600,10,11.24
+"University of Nebraska Medical Center","Public","4 Year",0,11558,28898,53400,93000,6,11.15
+"Merrimack College","Private","4 Year",15845,41760,41760,56000,102500,13,11.12
+"University of North Dakota","Public","4 Year",8974,8695,20759,53800,96000,16,11.02
+"Nebraska Wesleyan University","Private","4 Year",9622,34202,34202,45700,80500,8,10.95
+"Hanover College","Private","4 Year",11580,37670,37670,47500,85100,24,10.92
+"West Virginia State University","Public","4 Year",11892,8167,16072,41800,76000,8,10.92
+"Marshall University","Public","4 Year",10450,8128,18614,45000,79700,12,10.84
+"Truman State University","Public","4 Year",8780,7729,14581,47900,85800,16,10.84
+"Wartburg College","Private","4 Year",9996,41280,41280,49300,88000,34,10.84
+"Thomas More College","Private","4 Year",7950,31120,31120,50000,90900,8,10.82
+"University of Maine at Machias","Public","4 Year",8486,7840,15100,37100,66200,13,10.74
+"Yeshiva University","Private","4 Year",12250,43500,43500,63500,112800,11,10.74
+"Marietta College","Private","4 Year",11320,36040,36040,51200,94300,45,10.73
+"Loras College","Private","4 Year",8275,34184,34184,48000,90100,14,10.58
+"University of South Dakota","Public","4 Year",8216,9061,12425,47500,87900,8,10.55
+"Dordt College","Private","4 Year",9590,30870,30870,51000,89600,17,10.49
+"Lyndon State College","Public","4 Year",10598,12074,25394,41500,75100,8,10.49
+"Ripon College","Private","4 Year",8400,43808,43808,46300,89600,26,10.48
+"Fairmont State University","Public","4 Year",9004,7514,16324,42900,74100,7,10.46
+"Roger Williams University","Private","4 Year",15890,34522,34522,52900,92700,12,10.46
+"Green Mountain College","Private","4 Year",11722,37002,37002,42000,75200,2,10.32
+"University of Mary","Private","4 Year",6890,18720,18720,46400,79100,3,10.32
+"Carroll College","Private","4 Year",9880,35486,35486,48200,91400,25,10.28
+"Franklin Pierce University","Private","4 Year",13345,36900,36900,47800,85600,3,10.24
+"University of Pikeville","Private","4 Year",7800,20950,20950,39000,70700,11,10.17
+"Covenant College","Private","4 Year",10260,34330,34330,44400,79400,19,9.97
+"Taylor University","Private","4 Year",9614,34114,34114,48700,90600,16,9.74
+"University of New Hampshire at Manchester","Public","4 Year",0,15265,30635,51900,90900,32,9.65
+"Husson University","Private","4 Year",9830,18180,18180,43300,77600,1,9.60
+"Wheeling Jesuit University","Private","4 Year",9900,29290,29290,44800,83400,5,9.59
+"Tennessee Technological University","Public","4 Year",9736,9103,25759,53100,95100,28,9.58
+"Massachusetts Maritime Academy","Public","4 Year",12675,9724,26102,67900,117500,47,9.49
+"University of Wisconsin-Stout","Public","4 Year",6924,9457,17423,50400,89500,14,9.37
+"University of Southern Maine","Public","4 Year",9450,9520,22780,46900,81300,8,9.34
+"Saint Michael's College","Private","4 Year",12220,45375,45375,52900,98500,18,9.21
+"Southern New Hampshire University","Private","4 Year",13120,31136,31136,47400,83400,8,9.16
+"University of Evansville","Private","4 Year",12460,36416,36416,50300,89900,17,9.12
+"University of Dayton","Private","4 Year",13580,42900,42900,57400,105000,33,9.00
+"University of Northern Iowa","Public","4 Year",8948,8938,19480,47100,85300,8,8.94
+"Mount Mercy University","Private","4 Year",9534,31798,31798,47200,79000,4,8.85
+"Luther College","Private","4 Year",9460,42290,42290,48200,85900,21,8.81
+"University of Sioux Falls","Private","4 Year",7350,18280,18280,44400,78200,6,8.81
+"University of Maine","Public","4 Year",10418,11170,30970,52000,95000,24,8.80
+"Winona State University","Public","4 Year",9010,9425,15348,49700,86800,10,8.73
+"Ohio Northern University","Private","4 Year",11650,32260,32260,54400,103900,22,8.69
+"Carson-Newman University","Private","4 Year",8810,27900,27900,42700,76500,5,8.59
+"Clarke University","Private","4 Year",9600,33350,33350,44900,80200,6,8.58
+"Manhattan Christian College","Private","4 Year",9092,15850,15850,39400,72200,0,8.36
+"University of the Cumberlands","Private","4 Year",9000,23000,23000,39800,73800,8,8.26
+"Plymouth State University","Public","4 Year",11100,14099,22769,47000,82200,6,8.18
+"South Dakota State University","Public","4 Year",7896,8764,12128,50500,91900,18,8.01
+"Dakota Wesleyan University","Private","4 Year",7350,27300,27300,41800,75700,10,7.70
+"Northern State University","Public","4 Year",8029,8498,11471,42300,77700,7,7.70
+"Keene State College","Public","4 Year",11026,14212,23176,48900,83600,8,7.52
+"Central College","Private","4 Year",10280,37295,37295,49000,88800,36,7.51
+"University of Maine at Presque Isle","Public","4 Year",8406,8035,12235,39000,70700,6,7.47
+"West Liberty University","Public","4 Year",9406,7730,15670,42500,77000,6,7.39
+"Saint Anselm College","Private","4 Year",14500,41200,41200,56400,100300,11,7.32
+"Saint Joseph's College of Maine","Private","4 Year",13680,35650,35650,46900,84300,2,7.23
+"University of Maine at Fort Kent","Public","4 Year",8220,8115,12315,43500,76300,5,7.23
+"Vermont Technical College","Public","4 Year",10598,15108,27780,52400,93900,4,7.20
+"Viterbo University","Private","4 Year",9060,27970,27970,46800,81900,3,7.20
+"Morehead State University","Public","4 Year",9960,9170,13646,41300,74900,9,7.11
+"University of Maine at Augusta","Public","4 Year",0,7988,17918,41600,73100,7,6.97
+"Michigan Technological University","Public","4 Year",10756,15646,33726,65000,116300,81,6.92
+"University of Maine at Farmington","Public","4 Year",9726,9666,19778,41100,71700,5,6.63
+"Granite State College","Public","4 Year",0,9645,10875,43500,76900,3,6.61
+"Morningside College","Private","4 Year",9610,31530,31530,44900,82100,6,6.16
+"Montana Tech of the University of Montana","Public","4 Year",9656,7411,22574,61200,112600,61,5.42
+"Thomas More College of Liberal Arts","Private","4 Year",9700,21600,21600,48900,88300,0,5.38
+"West Virginia University at Parkersburg","Public","2 Year",0,6330,10920,36700,65200,3,5.09
+"Allen College","Private","4 Year",7282,19970,19970,51600,91300,0,5.04
+"Bellin College","Private","4 Year",0,22178,22178,55800,97600,0,3.99
+"Maine Maritime Academy","Public","4 Year",10310,13478,27098,67000,121800,48,2.45
