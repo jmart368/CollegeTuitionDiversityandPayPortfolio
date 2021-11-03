@@ -1,7 +1,6 @@
 # College, Tuition, Diversity, and Pay Project
 
-![Snip20211103_3](https://user-images.githubusercontent.com/24769002/140175106-947b9c38-5ccb-4f3b-8228-b388d91627d6.png)
-
+![Snip20211103_3](https://user-images.githubusercontent.com/24769002/140175367-2bb29903-54d6-4771-9aee-b1279b5cbf84.png)
 
 Purpose
 ------------------------
