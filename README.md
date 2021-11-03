@@ -10,15 +10,32 @@ The purpose of this project is to examine several data sets from different colle
 
 Datasets
 ------------------------
-We are given the following datasets to explore.
+We are given and used the following datasets to explore.
 
-* **tuition_income.csv** -  Income made from Tuition and fees which denotes the income bracket level for a given school throughout a given a year.
 * **tuition_cost.csv** - Tuition and fees by college/university for 2018-2019, along with school type, degree length, state, in-state vs out-of-state.
 * **salary_potential.csv** - Salary potential data from each school.
 * **diversity_school.csv** - Diversity by college/university along with school type, degree length, state, in-state vs out-of-state.
 
 Feature Definitions
 ------------------------
+* **name**
+* **total_enrollment**
+* **state**
+* **state_name**
+* **state_code**
+* **category**
+* **enrollment**
+* **rank**
+* **early_career_pay**
+* **mid_career_pay**
+* **make_world_better_percent**
+* **stem_percent**
+* **type**
+* **degree_length**
+* **room_and_board**
+* **in_state_tuition**
+* **out_of_state_tuition**
+* **out_of_state_total**
 
 
 Exploring our Data
