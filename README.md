@@ -18,24 +18,24 @@ We are given and used the following datasets to explore.
 
 Feature Definitions
 ------------------------
-* **name**
-* **total_enrollment**
-* **state**
-* **state_name**
-* **state_code**
-* **category**
-* **enrollment**
-* **rank**
-* **early_career_pay**
-* **mid_career_pay**
-* **make_world_better_percent**
-* **stem_percent**
-* **type**
-* **degree_length**
-* **room_and_board**
-* **in_state_tuition**
-* **out_of_state_tuition**
-* **out_of_state_total**
+* **name** - School name
+* **total_enrollment** - Total enrollment of students
+* **state_name** - State name
+* **state_code** - State abbreviation
+* **category** - Group/Racial/Gender category
+* **enrollment** - enrollment number by category
+* **rank** - Potential salary rank for each school per state
+* **early_career_pay** - Estimated early career pay in USD
+* **mid_career_pay** - Estimated mid career pay in USD
+* **make_world_better_percent** - Percent of alumni who think they are making the world a better place
+* **stem_percent** - Percent of student body in STEM
+* **type** - Public, private, for-profit
+* **degree_length** - 4 year or 2 year degree
+* **room_and_board** - Room and board cost in USD
+* **in_state_tuition** - Tuition for in-state residents in USD
+* **in_state_total** - Total cost for in-state residents in USD (sum of room and board + in-state tuition)
+* **out_of_state_tuition** - Tuition for out-of-state residents in USD
+* **out_of_state_total** - Total cost for out-of-state residents in USD (sum of room and board + out-of_state tuition)
 
 
 Exploring our Data
