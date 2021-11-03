@@ -8,6 +8,11 @@ The purpose of this project is to examine several data sets from different colle
 
 Datasets
 ------------------------
+We are given the following datasets to explore.
+
+* **tuition_income.csv - Tuition and fees by college/university for 2018-2019, along with school type, degree length, state, in-state vs out-of-state.
+
+
 
 
 Feature Definitions
