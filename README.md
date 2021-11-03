@@ -13,11 +13,10 @@ Datasets
 ------------------------
 We are given the following datasets to explore.
 
-* tuition_income.csv -  Income made from Tuition and fees which denotes the income bracket level for a given school throughout a given a year.
-* tuition_cost.csv - Tuition and fees by college/university for 2018-2019, along with school type, degree length, state, in-state vs out-of-state.
-* salary_potential.csv - Salary potential data from each school.
-* diversity_school.csv - Diversity by college/university along with school type, degree length, state, in-state vs out-of-state.
-
+* **tuition_income.csv** -  Income made from Tuition and fees which denotes the income bracket level for a given school throughout a given a year.
+* **tuition_cost.csv** - Tuition and fees by college/university for 2018-2019, along with school type, degree length, state, in-state vs out-of-state.
+* **salary_potential.csv** - Salary potential data from each school.
+* **diversity_school.csv** - Diversity by college/university along with school type, degree length, state, in-state vs out-of-state.
 
 Feature Definitions
 ------------------------
