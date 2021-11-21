@@ -41,7 +41,7 @@ Feature Definitions
 Exploring our Data
 ------------------------
 
-![Snip20211121_7](https://user-images.githubusercontent.com/24769002/142778627-8ca80699-a08d-4f72-ae91-eb88b3ac111b.png)
+![Snip20211121_8](https://user-images.githubusercontent.com/24769002/142779561-c9c6bcf4-4807-4a17-8802-64e2f7bd30d5.png)
 
 
 
