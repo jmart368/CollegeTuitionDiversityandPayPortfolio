@@ -43,6 +43,15 @@ Exploring our Data
 
 ![Snip20211121_8](https://user-images.githubusercontent.com/24769002/142779596-031a6e56-ee6c-4ee7-b8bc-9ce94de55f2c.png)
 
+![Snip20211121_9](https://user-images.githubusercontent.com/24769002/142779627-32ba1607-b412-4602-bc43-43c1d359e0d1.png)
+
+![Snip20211121_10](https://user-images.githubusercontent.com/24769002/142779637-dfa3e4e6-73d9-459c-93b1-142f4770559f.png)
+
+![Snip20211121_12](https://user-images.githubusercontent.com/24769002/142779662-f0924a2a-ad5b-4ef2-a032-337d26450e0b.png)
+
+![Snip20211121_13](https://user-images.githubusercontent.com/24769002/142779685-d3862de8-ea74-4ed0-81aa-0b67522bfdbc.png)
+
+![Snip20211121_14](https://user-images.githubusercontent.com/24769002/142779703-279353aa-6e16-4dc0-9edd-123fbf575d19.png)
 
 
 Closing Remarks
