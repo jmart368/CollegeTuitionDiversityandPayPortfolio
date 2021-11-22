@@ -62,6 +62,8 @@ Closing Remarks
 
 References
 ------------------------
+https://public.tableau.com/views/CollegesintheUS-AnalyzingTuitionDiversityandPay/TopCollegesinMassachusetts?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
 Kerr, E. (2019, June 17). Is college worth the cost? . US News. Retrieved November 3, 2021, from https://www.usnews.com/education/best-colleges/paying-for-college/articles/2019-06-17/is-college-worth-the-cost. 
 
 Libassi, C. J. (2018, May 23). The Neglected College Race Gap: Racial Disparities Among College Completers. Center for American Progress. Retrieved November 2, 2021, from https://www.americanprogress.org/issues/education-postsecondary/reports/2018/05/23/451186/neglected-college-race-gap-racial-disparities-among-college-completers/. 
