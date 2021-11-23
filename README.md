@@ -41,7 +41,10 @@ Feature Definitions
 Exploring our Data
 ------------------------
 
+In order to understand what the bigger picture of colleges/universities looks like in the United States, we need to look at the overall scope of our data. Using SQL to clean, structure, and combine data sets, we want to extract several visualizations that will give us an idea on where are the most diverse colleges located, which state has the highest/lowest salary 
+
 ![Snip20211121_8](https://user-images.githubusercontent.com/24769002/142779596-031a6e56-ee6c-4ee7-b8bc-9ce94de55f2c.png)
+
 
 ![Snip20211121_9](https://user-images.githubusercontent.com/24769002/142779627-32ba1607-b412-4602-bc43-43c1d359e0d1.png)
 
