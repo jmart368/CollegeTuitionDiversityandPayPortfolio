@@ -44,10 +44,10 @@ Exploring our Data
 In order to understand what the bigger picture of colleges/universities looks like in the United States, we need to look at the overall scope of our data. Using SQL to clean, structure, and combine our data sets, we want to extract several visualizations that will give us an idea on where are the most diverse colleges located, which state has the highest/lowest salary, and which states have the most expensive tuition rates.
 
 ![Snip20211121_8](https://user-images.githubusercontent.com/24769002/142779596-031a6e56-ee6c-4ee7-b8bc-9ce94de55f2c.png)
-When we compare all 50 states, we can observe that the state of Hawaii has the most diverse enrollment at 63.59%. This was calculated by taking the diversity_school enrollment divided by the diversity_school total_enrollment *100, 2) AS Total_Minority_Percentage
-FROM diversity_school
+When we compare all 50 states, we can observe that the state of Hawaii has the most diverse enrollment at 63.59%. This means that out of all the schools in the state of Hawaii which can either be public, private, or for profit, Hawaii would have the most diverse enrollment in student population throughout all of it's schools. This was calculated by taking the diversity_school enrollment divided by the diversity_school total_enrollment * 100 which would render us as the total percenatge of enrolled minority students. This would account all African Americans, Natives, Hispanics, Asians, and Women that are currently enrolled in comparison to total enrollment.
 
 ![Snip20211121_9](https://user-images.githubusercontent.com/24769002/142779627-32ba1607-b412-4602-bc43-43c1d359e0d1.png)
+When we look at median salary, there are two factors that we need account look at: Early Career Pay and Mid Career Pay. For salary, using the median would be appropriate instead of using mean. Since we have outliers in our data, using the mean would allow our outliers to dominate the data therefore not giving us an accurate early or mid career pay. For entry level career pay, the state of New York would dominate with a begining median salary of $64,000. New York would also have the highest percentage of students enrolled in a STEM related field but yet the state has the lowest enrollment of minority students at a total of 34.15%.
 
 ![Snip20211121_10](https://user-images.githubusercontent.com/24769002/142779637-dfa3e4e6-73d9-459c-93b1-142f4770559f.png)
 
