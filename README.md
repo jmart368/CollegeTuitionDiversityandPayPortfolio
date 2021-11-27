@@ -53,7 +53,7 @@ When we look at median salary, there are two factors that we need account look a
 
 ![Snip20211121_10](https://user-images.githubusercontent.com/24769002/142779637-dfa3e4e6-73d9-459c-93b1-142f4770559f.png)
 
-
+Overall we can see that the 3 most expensive states to enroll in a college or university are Rhode Island, Vermont, Massachusetts.
 
 ![Snip20211121_12](https://user-images.githubusercontent.com/24769002/142779662-f0924a2a-ad5b-4ef2-a032-337d26450e0b.png)
 
