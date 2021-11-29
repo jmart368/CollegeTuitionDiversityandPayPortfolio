@@ -60,7 +60,7 @@ Overall we can see that the 3 most expensive states to enroll in a college or un
 
 ### Colleges in the Massachusetts
 
-Public
+Total Average Cost of Public Schools in Massachsuetts
 |avg_room_and_board|avg_in_state_tuition|avg_out_state_tuition|
 |---|---|---|
 |5697.48|8964.69|17725.45|
