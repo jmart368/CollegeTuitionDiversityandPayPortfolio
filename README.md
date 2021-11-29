@@ -44,21 +44,6 @@ In order to understand what the bigger picture of colleges/universities looks li
 
 ### Colleges in the US
 
-US National Average of all Public Schools
-|avg_room_and_board|avg_in_state_tuition|avg_out_state_tuition|
-|---|---|---|
-|$4,331.69|$5,983.21|$13,539.32|
-
-US National Average of all Private Schools
-|avg_room_and_board|avg_in_state_tuition|avg_out_state_tuition|
-|---|---|---|
-|$9,005.39|$28,862.23|$28,866.48|
-
-US US National Average of all For Profit Schools
-|avg_room_and_board|avg_in_state_tuition|avg_out_state_tuition|
-|---|---|---|
-|$1,973.92|$16,279.19|$16,279.19|
-
 ![Snip20211121_8](https://user-images.githubusercontent.com/24769002/142779596-031a6e56-ee6c-4ee7-b8bc-9ce94de55f2c.png)
 
 When we compare all 50 states, we can see that the state of Hawaii has the most diverse student pupolation enrolled at 63.59%. This means that out of all the schools in the state of Hawaii which can either be public, private, or for profit, Hawaii would have the most diverse percentage enrollment in student population throughout all of it's schools. This would inlude all African Americans, Natives, Hispanics, Asians, and Women and exclude international students. The total diversity percentage was calculated by taking the diversity_school enrollment divided by the diversity_school total_enrollment multiplied by 100 which would render us as the total percentage of enrolled minority students. Per our data, Hawaii seemed to be most diverse in comparison to the rest of the 49 states.
@@ -74,21 +59,6 @@ Overall we can see that the 3 most expensive states to enroll in a college or un
 ![Snip20211121_12](https://user-images.githubusercontent.com/24769002/142779662-f0924a2a-ad5b-4ef2-a032-337d26450e0b.png)
 
 ### Colleges in the Massachusetts
-
-Total Average Cost of Public
-|avg_room_and_board|avg_in_state_tuition|avg_out_state_tuition|
-|---|---|---|
-|5697.48|8964.69|17725.45|
-
-Private
-|avg_room_and_board|avg_in_state_tuition|avg_out_state_tuition|
-|---|---|---|
-|13919.57|40456.46|40456.46|
-
-For Profit
-|avg_room_and_board|avg_in_state_tuition|avg_out_state_tuition|
-|---|---|---|
-|13300.00|27750.00|27750.00|
 
 
 ![Snip20211121_13](https://user-images.githubusercontent.com/24769002/142779685-d3862de8-ea74-4ed0-81aa-0b67522bfdbc.png)
