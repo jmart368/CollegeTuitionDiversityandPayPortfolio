@@ -61,13 +61,23 @@ Overall we can see that the 3 most expensive states to enroll in a college or un
 ### Colleges in the Massachusetts
 
 Public
-
-## Massachusetss
 |avg_room_and_board|avg_in_state_tuition|avg_out_state_tuition|
 |---|---|---|
 |5697.48|8964.69|17725.45|
 
+Private
+|avg_room_and_board|avg_in_state_tuition|avg_out_state_tuition|
+|---|---|---|
+|13919.57|40456.46|40456.46|
 
+For Profit
+|avg_room_and_board|avg_in_state_tuition|avg_out_state_tuition|
+|---|---|---|
+|13300.00|27750.00|27750.00|
+
+
+
+Public
 |avg_room_and_board|avg_in_state_tuition|avg_out_state_tuition|
 |---|---|---|
 |4331.69|5983.21|13539.32|
@@ -75,17 +85,9 @@ Public
 Private
 |avg_room_and_board|avg_in_state_tuition|avg_out_state_tuition|
 |---|---|---|
-|13919.57|40456.46|40456.46|
-
-|avg_room_and_board|avg_in_state_tuition|avg_out_state_tuition|
-|---|---|---|
 |9005.39|28862.23|28866.48|
 
 For Profit
-|avg_room_and_board|avg_in_state_tuition|avg_out_state_tuition|
-|---|---|---|
-|13300.00|27750.00|27750.00|
-
 |avg_room_and_board|avg_in_state_tuition|avg_out_state_tuition|
 |---|---|---|
 |1973.92|16279.19|16279.19|
