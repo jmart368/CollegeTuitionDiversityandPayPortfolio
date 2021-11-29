@@ -62,10 +62,10 @@ As of 2017, we can see that the top 4 schools carry a diversity of 100%. This im
 
 ### Colleges in the Massachusetts
 
+![Snip20211121_14](https://user-images.githubusercontent.com/24769002/142779703-279353aa-6e16-4dc0-9edd-123fbf575d19.png)
+
 
 ![Snip20211121_13](https://user-images.githubusercontent.com/24769002/142779685-d3862de8-ea74-4ed0-81aa-0b67522bfdbc.png)
-
-![Snip20211121_14](https://user-images.githubusercontent.com/24769002/142779703-279353aa-6e16-4dc0-9edd-123fbf575d19.png)
 
 
 Closing Remarks
