@@ -40,7 +40,7 @@ Feature Definitions
 Exploring our Data
 ------------------------
 
-In order to understand what the bigger picture of colleges/universities looks like in the United States, we need to look at the overall scope of our data. Using SQL to clean, structure, and combine our data sets, we want to extract several visualizations that will give us an idea on where the most diverse colleges are located, which state has the highest/lowest salary, and which states have the most expensive tuition rates including room and board.
+In order to understand what the bigger picture of colleges/universities looks like in the United States, we need to look at the overall scope of our data. Using SQL to clean, structure, and combine our data sets, we want to extract several visualizations through Tableau that will give us an idea on where the most diverse colleges are located, which state has the highest/lowest salary, and which states have the most expensive tuition rates including room and board.
 
 ### Colleges in the US
 
@@ -54,9 +54,11 @@ When we look at median salary, there are two factors that we need observe: Early
 
 ![Snip20211121_10](https://user-images.githubusercontent.com/24769002/142779637-dfa3e4e6-73d9-459c-93b1-142f4770559f.png)
 
-Overall we can see that the 3 most expensive states to enroll in a college or university are Rhode Island, Vermont, Massachusetts.
+Overall we can see that the 3 most expensive states to enroll in a college or university are Rhode Island, Vermont, and Massachusetts. The least expensive state is New Mexico. In comparison to who has the most diverse population we can see that per our National Tuition Averages Per State dashboard, New Mexico on Average has total of 59.49% of diverse students enrolled in its colleges. Rhode Island, Massachusetts, and Vermont would low enrollments of diverse students respectively at 21.31%, 27.56%, and 13.46%. This goes to show that there is a correlation with higher average cost and low diversity in student enrollment.
 
 ![Snip20211121_12](https://user-images.githubusercontent.com/24769002/142779662-f0924a2a-ad5b-4ef2-a032-337d26450e0b.png)
+
+As of 2017, we can see that the top 4 schools carry a diversity of 100%. This implies that 100% of enrolled students are from a diverse category of African Americans, Natives, Hispanics, Asians, and Women. This dashboard also shows that the total net cost of attending a for profit school is much lesser than attending a private or public school. Since 2010, the total net cost of all private and public schools in the US has risen whereas the for profit schools has remained stagnant. 
 
 ### Colleges in the Massachusetts
 
@@ -74,6 +76,8 @@ Closing Remarks
 
 References
 ------------------------
+Tableau Dashboards:
+Colleges in the US - Analyzing Tuition, Diversity, and Pay
 https://public.tableau.com/views/CollegesintheUS-AnalyzingTuitionDiversityandPay/TopCollegesinMassachusetts?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 
