@@ -43,7 +43,7 @@ Exploring our Data
 
 In order to understand what the bigger picture of colleges/universities looks like in the United States, we need to look at the overall scope of our data. Using SQL to clean, structure, and combine our data sets, we want to extract several visualizations that will give us an idea on where are the most diverse colleges located, which state has the highest/lowest salary, and which states have the most expensive tuition rates.
 
-###Colleges in the US
+### Colleges in the US
 
 ![Snip20211121_8](https://user-images.githubusercontent.com/24769002/142779596-031a6e56-ee6c-4ee7-b8bc-9ce94de55f2c.png)
 
