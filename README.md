@@ -47,17 +47,17 @@ In order to understand what the bigger picture of colleges/universities looks li
 US National Average of all Public Schools
 |avg_room_and_board|avg_in_state_tuition|avg_out_state_tuition|
 |---|---|---|
-|4331.69|5983.21|13539.32|
+|$4,331.69|$5,983.21|$13,539.32|
 
 US National Average of all Private Schools
 |avg_room_and_board|avg_in_state_tuition|avg_out_state_tuition|
 |---|---|---|
-|9005.39|28862.23|28866.48|
+|$9,005.39|$28,862.23|$28,866.48|
 
 US US National Average of all For Profit Schools
 |avg_room_and_board|avg_in_state_tuition|avg_out_state_tuition|
 |---|---|---|
-|1973.92|16279.19|16279.19|
+|$1,973.92|$16,279.19|$16,279.19|
 
 ![Snip20211121_8](https://user-images.githubusercontent.com/24769002/142779596-031a6e56-ee6c-4ee7-b8bc-9ce94de55f2c.png)
 
