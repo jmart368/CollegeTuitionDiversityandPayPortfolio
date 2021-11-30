@@ -64,10 +64,11 @@ As of 2017, we can see that the top 4 schools carry a diversity of 100%. This im
 
 ![Snip20211121_14](https://user-images.githubusercontent.com/24769002/142779703-279353aa-6e16-4dc0-9edd-123fbf575d19.png)
 
-
+The most expensive school that ranks with the top in the state of Massachusetts is Amherst College where the tuition is at $56,426 for both in state and out of state. We can see that most of the ranking and most expensive schools are private where the public schools would rank lower with a low average cost.
 
 ![Snip20211121_13](https://user-images.githubusercontent.com/24769002/142779685-d3862de8-ea74-4ed0-81aa-0b67522bfdbc.png)
 
+When it comes to having a diverse enrollment, this dashboard tells a different story. We no longer see the same list of top colleges in Massachusetts. When it comes to having the most diverse student population, we can see that community colleges rank higher in having the most diverse student enrollment. Roxbury Community College has the most enrolled minorties at 86.88% while the most expensive school from our top ranking list, Amherst College, has an enrollment of 43.47%. 
 
 
 Closing Remarks
