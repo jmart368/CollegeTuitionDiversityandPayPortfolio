@@ -68,7 +68,7 @@ As of 2017, we can see that the top 4 schools carry a diversity of 100%. This im
 
 ![Snip20211121_14](https://user-images.githubusercontent.com/24769002/142779703-279353aa-6e16-4dc0-9edd-123fbf575d19.png)
 
-
+jhj
 
 Closing Remarks
 ------------------------
