@@ -79,7 +79,6 @@ Closing Remarks
 References
 ------------------------
 Tableau Dashboards: Colleges in the US - Analyzing Tuition, Diversity, and Pay
-
 https://public.tableau.com/views/CollegesintheUS-AnalyzingTuitionDiversityandPay/TopCollegesinMassachusetts?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 
