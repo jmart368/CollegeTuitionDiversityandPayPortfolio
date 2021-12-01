@@ -74,8 +74,6 @@ When it comes to having a diverse enrollment, this dashboard tells a different s
 Closing Remarks
 ------------------------
 
-![Snip20211103_3](https://user-images.githubusercontent.com/24769002/140175367-2bb29903-54d6-4771-9aee-b1279b5cbf84.png)
-
 There seems to be a correlation with higher cost and a lower diverse student enrollment along with states where the pay is more and the diversity enrollment of that state remains somewhat low. In general we can see that diverse students do not enroll in higher ranking schools due to the high tuition cost. There is general assumption that in the United States, being diverse does not mean having access to adequate resources to attend high ranking schools. Based on our data set, we can see that this assumption might be somewhat of a reality considering other factors such admissions and test scores. What we can conclude from our data is that diverse students are more likely to attend community colleges than a traditional 4 year public school. We can see that based on cost, they are more likely to attend a for profit school than a private school which supports the analisys conducted by the Center for American Progress that monorities have have less money to spend on a good quality education.    
 
 References
